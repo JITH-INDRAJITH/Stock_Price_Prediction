@@ -4,10 +4,10 @@ In today's data-driven world, forecasting the behavior of the stock market has b
 
 In this Project, we will focus on predicting the average stock price of a stock exchange using historical data spanning from the year 2000 to 2021. We will employ several forecasting models and evaluate their performance using the Root Mean Squared Error (RMSE) metric. The primary objectives of this case study are:
 
-1.)Perform Exploratory Data Analysis (EDA) to gain insights into the stock price data.
-2.)Build ARIMA/SARIMA models, both with and without exogenous variables, for stock price prediction.
-3.)Utilize the Facebook Prophet model for forecasting stock prices.
-4.)Implement an LSTM (Long Short-Term Memory) model, a type of deep learning model, for stock price prediction.
+1.)Perform Exploratory Data Analysis (EDA) to gain insights into the stock price data.  
+2.)Build ARIMA/SARIMA models, both with and without exogenous variables, for stock price prediction.  
+3.)Utilize the Facebook Prophet model for forecasting stock prices.  
+4.)Implement an LSTM (Long Short-Term Memory) model, a type of deep learning model, for stock price prediction.  
 
 # Dataset Description
 The dataset used for this case study is named "YahooFinance.csv". It contains historical average stock price data of a stock exchange for the time period ranging from 2000 to 2021. The dataset comprises the following columns:
